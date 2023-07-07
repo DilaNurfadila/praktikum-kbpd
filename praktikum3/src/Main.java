@@ -4,9 +4,9 @@ public class Main {
         String nama, alamat;
         int usia;
         // Mengisi variable
-        nama = "Nur";
+        nama = "Nurfadila";
         alamat = "Baleendah";
-        usia = 19;
+        usia = 20;
         // Mencetak isi variable
         System.out.println("Nama : "+nama);
         System.out.println("Alamat : "+alamat);
